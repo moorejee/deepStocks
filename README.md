@@ -9,4 +9,7 @@ https://drive.google.com/open?id=1EPPJly7P8Kk5009tPiSY6EXisZkofkH1
 ## the model graph in tensorflow
 ![image](https://github.com/moorejee/deepStocks/blob/master/network.png)
 
+## the reconstruction results
+![image](https://github.com/moorejee/deepStocks/blob/master/Output.png)
+
 
